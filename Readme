@@ -1,0 +1,16 @@
+Simple Rule-Based Chatbot (Python)
+ Overview
+This is a **beginner-friendly chatbot** built using Python’s `if-elif-else` statements.  
+It simulates a simple conversation and responds to basic inputs like greetings, questions, and exit commands.
+
+This project is perfect for **beginners** who want to learn how chatbots work **without using AI or machine learning**.
+🚀 Features:
+✅ Responds to basic greetings (`hi`, `hello`, `hey`)  
+✅ Answers simple questions like “What is your name?” and “How are you?”  
+✅ Allows users to exit by typing `bye`, `exit`, or `quit`  
+✅ Handles unknown inputs with a polite fallback message  
+Installation & Usage:
+1️⃣ Clone the repository
+bash
+git clone https://github.com/your-username/chatbot.git
+cd chatbot
